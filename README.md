@@ -1,2 +1,2 @@
 # Javascript-Clock with a background image
-<img src="https://wallpapercave.com/wp/wp4443741.jpg" alt preview >
+<img src="https://tender-lovelace-eaaf05.netlify.app/" alt preview >
